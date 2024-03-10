@@ -15,7 +15,7 @@
 
 <hr>
 <p align="center">
-     and I'm currently studying <b><i>Mathematics</i></b> and <b><i>Computer Science</i></b> at <b><i>Babeș-Bolyai University</i></b> in <b><i>Cluj-Napoca, Romania</i></b>.
+     I am currently studying <b>>Mathematics</b> and <b>Computer Science</b> at <b><i>Babeș-Bolyai University</i></b> in Cluj-Napoca, Romania.
 </p>
 
 
