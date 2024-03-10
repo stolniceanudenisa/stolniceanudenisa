@@ -51,7 +51,7 @@
 
 <div align = "center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Labor+omnia+vincit+improbus;&size=25)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AA+AAA+bbb+ccccc;&size=25)](https://git.io/typing-svg)
   
 <img src="https://github.com/DianaElenaStancu/DianaElenaStancu/blob/d0f08a6c01ba75933f2d6452fce44faea3f4fe5b/Bottom.svg" />
 </div>
