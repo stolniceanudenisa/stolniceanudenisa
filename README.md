@@ -50,7 +50,7 @@
 
 
 <div align = "center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AA+AAA+bbb+ccccc;&size=25)](https://git.io/typing-svg)
+ <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AA+AAA+bbb+ccccc;&size=25)](https://git.io/typing-svg) -->
  
  ![](https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/butterfly.gif)
 </div>
