@@ -62,13 +62,14 @@
 
 
 
-
+ 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Stolniceanu+Denisa;&size=25" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Stolniceanu+Denisa;&size=25" style="color: black;"/>
   </a>
 </div>
-
+ 
+ 
 <div align="center">
   <img src="https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/butterfly.gif" />
 </div>
