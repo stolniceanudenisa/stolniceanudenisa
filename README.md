@@ -63,13 +63,11 @@
 
 
  
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Stolniceanu+Denisa;&size=25" style="color: black;"/>
-  </a>
+
+ <div align="center">
+  <iframe src="https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Stolniceanu+Denisa;&size=25&color=000000" frameborder="0" width="400" height="80"></iframe>
 </div>
- 
- 
+
 <div align="center">
   <img src="https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/butterfly.gif" />
 </div>
