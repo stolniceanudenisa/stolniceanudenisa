@@ -18,9 +18,7 @@
      I am currently studying <b> Mathematics </b> and <b> Computer Science </b> at <b>Babeș-Bolyai University</b> in Cluj-Napoca, Romania.
 </p>
 
-
-<p align="center">
-      <i>Let's get in touch!</i>
+ 
 
 
 
