@@ -13,7 +13,9 @@
 </div>
 
 
-
+<p align="center">
+     and I'm currently studying <b><i>Mathematics</i></b> and <b><i>Computer Science</i></b> 💻 at <b><i>Babeș-Bolyai University</i></b> in <b><i>Cluj-Napoca, Romania</i></b>.
+</p>
 
 
 
