@@ -47,7 +47,7 @@
 
 <div align = "center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Labor+omnia+vincit+improbus;&size=25)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Stolniceanu+Denisa;&size=25)](https://git.io/typing-svg)
   
  
 </div>
