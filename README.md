@@ -48,10 +48,10 @@
   
  <div align="center">
   <a href="https://git.io/typing-svg">
-   <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hia!+I+am+Stolniceanu+Denisa;&size=25"  /> -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Stolniceanu+Denisa;&size=25"  />
    
   </a>
-</div> 
+</div>
  
 
 <div align="center">
