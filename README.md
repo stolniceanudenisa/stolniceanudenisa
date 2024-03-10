@@ -58,7 +58,7 @@
 
 
 
-
+<!--
 <div align="center">
   
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DianaElenaStancu&show_icons=true&count_private=true&theme=vision-friendly-dark)](https://github.com/DianaElenaStancu)
@@ -66,7 +66,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaElenaStancu&layout=compact&theme=vision-friendly-dark)](https://github.com/DianaElenaStancu)
 
   <br/><br/><br/><br/><br/>
-
+-->
 
 
 
