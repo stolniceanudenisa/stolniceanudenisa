@@ -19,6 +19,21 @@
 </p>
 
 
+<p align="center">
+      <i>Let's get in touch!</i>
+
+<p align="center">
+      <a href="https://github.com/culbec"> 
+            <img src="https://github.com/culbec/culbec/assets/67468709/42dd4ecd-b9b7-4d6c-9909-785605d6a310"/>
+      </a>
+      <a href="https://www.instagram.com/alex.profir/">
+            <img src="https://github.com/culbec/culbec/assets/67468709/0b5f9a61-b680-46b9-8f3f-412450394b9a"/>
+      </a>
+      <a href="https://www.linkedin.com/in/alexandru-profir-764916203/">
+            <img src="https://github.com/culbec/culbec/assets/67468709/04ee3b6a-cba8-4f31-a6ec-4d1984da1bf6"/>
+      </a>
+</p>
+
 
 <!--
 <h3 align="left">Connect with me:</h3>
