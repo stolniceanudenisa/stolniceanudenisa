@@ -112,6 +112,10 @@
 <br/>
 <hr/>
 
+
+
+
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -120,7 +124,25 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
+<hr/> -->
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <a href="https://github.com/stolniceanudenisa">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/stolniceanudenisa/stolniceanudenisa/main/github-contribution-grid-snake.svg" />
+  </a>
+  <br/><br/><br/>
+</div>
+
+
+
+
+
+
+
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
