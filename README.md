@@ -3,12 +3,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 
-<!---
+<!--
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Stolniceanu+Denisa!;" />
-</h1> -->
+</h1>
+-->
 
-<!---
+<!--
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
 <br/>
@@ -24,7 +25,7 @@
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
- --->
+ -->
 
  <!---
 <div align="center"> 
