@@ -44,10 +44,10 @@
 
 
 
-
+ <!--
 <div align = "center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Stolniceanu+Denisa+.;&size=25)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Stolniceanu+Denisa;&size=25)](https://git.io/typing-svg)
   
  
 </div>
@@ -57,6 +57,26 @@
 <div align = "center">
  ![](https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/butterfly.gif)
 </div>
+
+-->
+
+
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Stolniceanu+Denisa;&size=25" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/butterfly.gif" />
+</div>
+
+
+
+
+
 
 
 
