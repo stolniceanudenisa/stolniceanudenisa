@@ -51,7 +51,7 @@
   
 <img src="https://github.com/DianaElenaStancu/DianaElenaStancu/blob/d0f08a6c01ba75933f2d6452fce44faea3f4fe5b/Bottom.svg" />
 </div>
- div>
+
 
  
 <div align = "center">
