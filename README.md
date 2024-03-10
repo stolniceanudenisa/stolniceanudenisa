@@ -53,7 +53,8 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AA+AAA+bbb+ccccc;&size=25)](https://git.io/typing-svg)
   
-<img src="https://github.com/DianaElenaStancu/DianaElenaStancu/blob/d0f08a6c01ba75933f2d6452fce44faea3f4fe5b/Bottom.svg" />
+<img src="[https://github.com/DianaElenaStancu/DianaElenaStancu/blob/d0f08a6c01ba75933f2d6452fce44faea3f4fe5b/Bottom.svg](https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/butterfly.gif)" />
+
 </div>
 
 
