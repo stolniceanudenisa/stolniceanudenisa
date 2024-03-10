@@ -75,10 +75,10 @@
   </a>
    <!-- <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
-  </a>-->
+  </a> -->
 </div>
 
- <hr/>
+ 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stolniceanudenisa&label=Profile%20views&color=0e75b6&style=flat" alt="stolniceanudenisa" /> </p>
 
