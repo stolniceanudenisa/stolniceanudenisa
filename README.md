@@ -11,10 +11,12 @@
 </div>
 
 
+
 <hr>
 <p align="center">
      I am currently studying <b> Mathematics </b> and <b> Computer Science </b> at <b>Babeș-Bolyai University</b> in Cluj-Napoca, Romania.
 </p>
+
 
  <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stolniceanudenisa&label=Profile%20views&color=0e75b6&style=flat" alt="stolniceanudenisa" /> </p>
