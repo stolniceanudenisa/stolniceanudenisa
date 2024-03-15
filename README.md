@@ -83,17 +83,14 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stolniceanudenisa) 
 
 
-
-
  
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
   <!--de facut asta aaaaaaalbb si mai la dreapta
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  -->
 
   <!--
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&layout=compact&theme=radical)   -->
+
   
+  <!--  de pus iconita sagetuta
+<p align="right">(<a href="#readme-top">back to top</a>)</p>  -->
