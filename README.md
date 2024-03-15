@@ -174,7 +174,7 @@
 </p>
 
 <br>
-<p align="center">
+<p align="left">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=stolniceanudenisa&theme=tokyonight" />
 </p>
 
