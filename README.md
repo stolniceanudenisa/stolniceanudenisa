@@ -20,14 +20,14 @@
  <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stolniceanudenisa&label=Profile%20views&color=0e75b6&style=flat" alt="stolniceanudenisa" /> </p>
 
-
+[![](https://visitcount.itsvg.in/api?id=stolniceanudenisa&icon=0&color=1)](https://visitcount.itsvg.in)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&layout=compact&theme=radical) 
+<!--
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&layout=compact&theme=radical) -->
  
