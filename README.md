@@ -168,7 +168,7 @@
 
 
 <h1 align="center">Github Stats</h1>
-<p align="center">
+<p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stolniceanudenisa&show_icons=true&layout=compact&theme=tokyonight" alt="stolniceanudenisa" />
   
   <img align="right" width="38%"  src="https://github-readme-stats.vercel.app/api?username=stolniceanudenisa&show_icons=true&theme=tokyonight&layout=compact" />
