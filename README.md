@@ -267,8 +267,8 @@
 
 <div align="center">
    <a href="https://visitorbadge.io/status?path=budarobert"><img src="https://api.visitorbadge.io/api/visitors?path=budarobert&labelColor=%23000000&countColor=%23000000" /></a>
-  <br><be>
-
+  <br><br>
+<br>
 
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
   <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   anmolbaranwal119@gmail.com" /></a>
