@@ -16,23 +16,11 @@
      I am currently studying <b> Mathematics </b> and <b> Computer Science </b> at <b>Babeș-Bolyai University</b> in Cluj-Napoca, Romania.
 </p>
 
-
  <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stolniceanudenisa&label=Profile%20views&color=0e75b6&style=flat" alt="stolniceanudenisa" /> </p>
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; ;
  
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  -->
-
-
-<!--
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&layout=compact&theme=radical) -->
-
-
-
 
 # My Hub
 
@@ -89,4 +77,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__.denisa.__) 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stolniceanudenisa) 
 
+
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&layout=compact&theme=radical)  
   
