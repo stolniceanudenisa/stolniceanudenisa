@@ -40,6 +40,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+[![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)]()
+[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)]()
+[![C++](https://img.shields.io/badge/-C++-blueviolet?style=flat-square&logo=c%2B%2B&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/-SQL-purple?style=flat-square&logo=mysql&logoColor=white)]()
+[![Assembly](https://img.shields.io/badge/-Assembly-darkgreen?style=flat-square&logo=assembly&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)]()
 
 > Frameworks and libraries
 
@@ -54,13 +61,7 @@
 ![Fx](https://img.shields.io/badge/fx-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 
-[![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)]()
-[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)]()
-[![C++](https://img.shields.io/badge/-C++-blueviolet?style=flat-square&logo=c%2B%2B&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/-SQL-purple?style=flat-square&logo=mysql&logoColor=white)]()
-[![Assembly](https://img.shields.io/badge/-Assembly-darkgreen?style=flat-square&logo=assembly&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)]()
+
  
 > Databases
 
