@@ -52,7 +52,15 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Fx](https://img.shields.io/badge/fx-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
- 
+
+
+[![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)]()
+[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)]()
+[![C++](https://img.shields.io/badge/-C++-blueviolet?style=flat-square&logo=c%2B%2B&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/-SQL-purple?style=flat-square&logo=mysql&logoColor=white)]()
+[![Assembly](https://img.shields.io/badge/-Assembly-darkgreen?style=flat-square&logo=assembly&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)]()
  
 > Databases
 
