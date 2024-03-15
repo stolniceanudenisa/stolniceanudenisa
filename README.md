@@ -264,7 +264,8 @@
 
 
 ![alt text](https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/banner.png?raw=true)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=stolniceanudenisa&labelColor=%23f5f5dc&countColor=%239f8c76)
+<!--
+![Visitors](https://api.visitorbadge.io/api/visitors?path=stolniceanudenisa&labelColor=%23f5f5dc&countColor=%239f8c76) -->
 
 <!--
 
