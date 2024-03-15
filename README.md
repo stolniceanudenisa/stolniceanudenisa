@@ -40,12 +40,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/assembly-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
  
  
-
-
-
  
 > Frameworks and libraries
 
@@ -57,6 +53,14 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![VueJs](https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Fx](https://img.shields.io/badge/fx-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
@@ -166,7 +170,7 @@
 
 
 
-
+<!--
 <h1 align="center">Github Stats</h1>
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stolniceanudenisa&show_icons=true&layout=compact&theme=tokyonight" alt="stolniceanudenisa" />
@@ -178,7 +182,7 @@
 <p align="left">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=stolniceanudenisa&theme=tokyonight" />
 </p>
-
+-->
 
 
 
