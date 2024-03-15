@@ -77,7 +77,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # How to reach me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stolniceanudenisa) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisa-elena-stolniceanu-793615202) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__.denisa.__) 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stolniceanudenisa) 
 
