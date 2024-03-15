@@ -268,19 +268,51 @@
 <div align="center">
    <a href="https://visitorbadge.io/status?path=budarobert"><img src="https://api.visitorbadge.io/api/visitors?path=budarobert&labelColor=%23000000&countColor=%23000000" /></a>
   <br><br>
-<br>
 
-  <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
-  <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   anmolbaranwal119@gmail.com" /></a>
-  <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username anmol_baranwal(Anmol#7140)" ></a>
-  <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
-  <a href="https://peerlist.io/anmolbaranwal"><img src="https://img.shields.io/badge/peerlist-d5d5d5?style=for-the-badge&logo=peerlist&logoColor=0A0209" alt="profile of Peerlist with username anmolbaranwal" ></a>
+
+  <a href="https://www.linkedin.com/in/budarobert/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username budarobert" /></a>
+  
+  <a href="mailto:budarobert2003@yahoo.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   budarobert2003@yahoo.com" /></a>
+  
+  <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username budarobert(Anmol#7140)" ></a>
+
+ 
 </div>
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<div>
+
+<i>&nbsp; Building products with open source.</i><br><br>
+
+👋 Greetings! It's great to have you here. I'm Anmol Baranwal, a full-stack developer from India, super into Open Source, and love managing communities.
+
+🎯 I regularly create inspirational content on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) and [Twitter](https://twitter.com/Anmol_Codes).
+
+✨ I'm part of core developer team at [Guidlify](https://github.com/Guidlify), connecting sponsors and tech community events. I rank in GitHub [Top 5%](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card).
+
+🏆 I secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor), did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and devised content as a core team member for _2 lakh+_ audiences.
+
+🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science, and played a pivotal role as a maintainer & contributor of [LinksHub](https://github.com/rupali-codes/LinksHub) to turn it into open source success story.
+
+🚀 &nbsp; I'm also part of exciting communities like [WebXDAO](https://github.com/WebXDAO), [Taipy](https://github.com/Avaiga/taipy), [DEV](https://dev.to/about) and my forte lies in exploring technologies like Nextjs with TypeScript to build products.
+
+🔖 &nbsp; I have written several trending articles on [dev.to](https://dev.to/anmolbaranwal) with more than _80k_ views and _10k_ followers. Shoot me a message at anmolbaranwal119@gmail.com for sponsorships and collaboration.
+
+🚀 I built [designlyfe.tech](https://designlyfe.tech/) in Buildspace Season 4 and will continue working on more open source projects. Watch my journey of 6 weeks [here](https://buildspace.so/s4/demoday/designlyfe).
+
+🎁 I've been active on Product Hunt, where my outstanding [open-source resource](https://www.producthunt.com/posts/awesome-illustrations-for-projects) got _50+_ upvotes. I'm planning to launch more open source products in 2024.
+
+😄 &nbsp; When I'm not coding, you can find me writing insightful articles on [dev.to](https://dev.to/anmolbaranwal), managing communities on [discord](https://discordapp.com/users/776749637826117640), or creating content on [LinkedIn](https://www.linkedin.com/in/Anmol-Baranwal/) & [Twitter](https://twitter.com/Anmol_Codes)
+
+🔥 &nbsp; In short, I love interacting with people and exploring life with tech in general :)
+
+</div>
+
+<br>
 
 
 
