@@ -266,8 +266,7 @@
 ![alt text](https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/banner.png?raw=true)
 
 <div align="center">
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=budarobert&labelColor=%23000000&countColor=%23000000)](https://visitorbadge.io/status?path=budarobert)
- 
+   <a href="https://visitorbadge.io/status?path=budarobert"><img src="https://api.visitorbadge.io/api/visitors?path=budarobert&labelColor=%23000000&countColor=%23000000" /></a>
   <br><be>
 
 
