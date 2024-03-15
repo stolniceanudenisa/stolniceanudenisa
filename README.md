@@ -98,6 +98,7 @@
 
 
 
+<!--
 
 ## Languages and Tools
 <table align="center">
@@ -169,7 +170,7 @@
 <br><br>
 </tr>
 </tr></tr>
-
+-->
 
 
 <!--
