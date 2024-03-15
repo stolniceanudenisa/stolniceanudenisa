@@ -319,7 +319,8 @@
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Stolniceanu Denisa github stats](https://github-readme-stats.vercel.app/api?username=stolniceanudenisa\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Stolniceanu Denisa GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stolniceanudenisal&theme=tokyonight&theme=icegray&border_radius=8) |
+| ![Stolniceanu Denisa github stats](https://github-readme-stats.vercel.app/api?username=stolniceanudenisa\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) 
+|![Stolniceanu Denisa GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stolniceanudenisa&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
 
 <hr>
