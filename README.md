@@ -53,8 +53,8 @@
 
 
 > Frameworks and libraries
-
-![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Hibernate](https://img.shields.io/badge/spring-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ionic](https://img.shields.io/badge/ionic-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ngrx](https://img.shields.io/badge/ngrx-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
