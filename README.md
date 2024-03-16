@@ -9,7 +9,7 @@
 
 
   <div align="center">
-  <img src="https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/monet poza.jpg" />
+  <img src="https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/monet poza2.png" />
 </div> -->
 
 
