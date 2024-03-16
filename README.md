@@ -1,14 +1,12 @@
- 
-
-
 <div align="center" style="position: relative;">
   <div style="position: absolute; top: 20px; left: 0;">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com/?lines=aaaa+bbbb+cccc+dddd;&size=25" alt="Typing SVG"/>
     </a>
   </div>
-  <img src="https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/alb-negru.svg"/>
+  <img src="https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/alb-negru.svg" style="filter: hue-rotate(120deg);"/>
 </div>
+
 
 
 <div align="center" style="position: relative;">
