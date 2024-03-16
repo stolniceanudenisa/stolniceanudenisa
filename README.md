@@ -9,7 +9,7 @@
 
 
   <div align="center">
-  <img src="https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/monet.gif" />
+  <img src="https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/monet gif2.gif" />
 </div> -->
 
 
