@@ -24,7 +24,7 @@
 
 # My Hub
 
-[![](https://visitcount.itsvg.in/api?id=stolniceanudenisa&icon=0&color=1)](https://visitcount.itsvg.in)
+ <!-- [![](https://visitcount.itsvg.in/api?id=stolniceanudenisa&icon=0&color=1)](https://visitcount.itsvg.in) -->
 
 
 > Progamming languages
