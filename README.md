@@ -144,7 +144,7 @@
     </div>
 </div>
 
-
+<br/><hr/>
 
 <div align="center" style="position: relative; display: flex; flex-direction: column; align-items: center;">
     <h1>How to reach me</h1>
