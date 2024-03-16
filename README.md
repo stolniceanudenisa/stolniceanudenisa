@@ -44,9 +44,8 @@
  
 > Frameworks, Platforms and Libraries
 
-![Spring](https://img.shields.io/badge/spring-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 ![Hibernate](https://img.shields.io/badge/hibernate-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Ngrx](https://img.shields.io/badge/ngrx-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
