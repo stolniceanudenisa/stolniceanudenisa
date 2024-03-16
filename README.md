@@ -142,20 +142,12 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=stolniceanudenisa&theme=swift&hide_border=true" alt="GitHub Streak" /><br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </div>
-
-    <div style="margin-bottom: 20px;">
-        <h1>How to reach me</h1>
-        <a href="https://www.linkedin.com/in/denisa-elena-stolniceanu-793615202">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="https://instagram.com/__.denisa.__">
-            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-        </a>
-        <a href="https://buymeacoffee.com/stolniceanudenisa">
-            <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-        </a>
-    </div>
 </div>
+
+# How to reach me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisa-elena-stolniceanu-793615202) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__.denisa.__) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stolniceanudenisa) 
 
 
 
