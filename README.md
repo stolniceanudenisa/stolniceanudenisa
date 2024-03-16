@@ -1,8 +1,6 @@
-  <div align = "center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=aaaa+bbbb+cccc+dddd;&size=25)](https://git.io/typing-svg)
-  
-<img src="(https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/alb-negru.svg)" />
+<div align = "center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=aaaa+bbbb+cccc+dddd;&size=25)](https://git.io/typing-svg)  
+<img src="https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/alb-negru.svg"/>
 </div>
 
 
