@@ -258,10 +258,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  -->
 
 
-
-
-![badge](https://kounter.stolniceanudenisa.dev/badge/stolniceanudenisa.kounter?label=&color=333&style=for-the-badge&cntSuffix=%20Views&silent=true)
-
  
  
 
