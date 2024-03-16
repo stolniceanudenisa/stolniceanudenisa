@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/butterfly.gif" />
+  <img src="https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/butterfly2.gif" />
 </div>
 
 
