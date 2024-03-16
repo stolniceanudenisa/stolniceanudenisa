@@ -146,7 +146,7 @@
 
 
 
-<div style="margin-bottom: 20px;">
+<div align="center" style="position: relative; display: flex; flex-direction: column; align-items: center;">
     <h1>How to reach me</h1>
     <a href="https://www.linkedin.com/in/denisa-elena-stolniceanu-793615202">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
