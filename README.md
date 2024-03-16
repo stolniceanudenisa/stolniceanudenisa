@@ -309,8 +309,8 @@
  
 
 
- 
- [![EU](https://github-readme-stats.vercel.app/api?username=stolniceanudenisa&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) [![stolniceanudenisa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+ <!-- 
+ [![EU](https://github-readme-stats.vercel.app/api?username=stolniceanudenisa&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) [![stolniceanudenisa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) -->
  
 
 
