@@ -1,7 +1,8 @@
 
 
 <!--
-<div align="center" style="position: relative;">
+<div align="center" style="position: relative;"> 
+
   <div align="center">
   <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.demolab.com?font=Libre&pause=1000&color=030A0D&random=false&width=435&lines=Hi!+I+am+Stolniceanu+Denisa.;&size=25" alt="Typing SVG" /></a>
