@@ -52,16 +52,20 @@
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-<img src="https://img.shields.io/badge/matlab-%23777BB4.svg?style=for-the-badge&amp;logo=c++&amp;logoColor=white" alt="matlab" />
-
-
-<img src="https://img.shields.io/badge/scikitlearn-blue.svg?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=%23F7DF1E" alt="scikitlearn" />
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/assembly-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+<img src="https://img.shields.io/badge/matlab-%23777BB4.svg?style=for-the-badge&amp;logo=c++&amp;logoColor=white" alt="matlab" />
+<img src="https://img.shields.io/badge/pytorch-%23323335.svg?style=for-the-badge&amp;logo=pytorch&amp;logoColor=%23F7DF1E" alt="pytorch" />
+<img src="https://img.shields.io/badge/scikitlearn-blue.svg?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=%23F7DF1E" alt="scikitlearn" />
+<img src="https://img.shields.io/badge/spark-%23326ce5.svg?style=for-the-badge&amp;logo=spark&amp;logoColor=white" alt="spark" />  
+<img src="https://img.shields.io/badge/kafka-red.svg?style=for-the-badge&amp;logo=kafka&amp;logoColor=white" alt="kafka" />
+
+ 
 
 <br/>
 
