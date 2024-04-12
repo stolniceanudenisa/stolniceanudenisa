@@ -65,7 +65,14 @@
 <img src="https://img.shields.io/badge/spark-%23326ce5.svg?style=for-the-badge&amp;logo=spark&amp;logoColor=white" alt="spark" />  
 <img src="https://img.shields.io/badge/kafka-red.svg?style=for-the-badge&amp;logo=kafka&amp;logoColor=white" alt="kafka" />
 
- 
+ <div style="display: flex; justify-content: space-between;">
+    <img src="https://img.shields.io/badge/matlab-%23777BB4.svg?style=for-the-badge&amp;logo=c++&amp;logoColor=white" alt="matlab" />
+    <img src="https://img.shields.io/badge/pytorch-%23323335.svg?style=for-the-badge&amp;logo=pytorch&amp;logoColor=%23F7DF1E" alt="pytorch" />
+    <img src="https://img.shields.io/badge/scikitlearn-blue.svg?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=%23F7DF1E" alt="scikitlearn" />
+    <img src="https://img.shields.io/badge/spark-%23326ce5.svg?style=for-the-badge&amp;logo=spark&amp;logoColor=white" alt="spark" />  
+    <img src="https://img.shields.io/badge/kafka-red.svg?style=for-the-badge&amp;logo=kafka&amp;logoColor=white" alt="kafka" />
+</div>
+
 
 <br/>
 
