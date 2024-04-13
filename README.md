@@ -77,7 +77,9 @@
 ![Hibernate](https://img.shields.io/badge/hibernate-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Ngrx](https://img.shields.io/badge/ngrx-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Fx](https://img.shields.io/badge/fx-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 <!--
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![VueJs](https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -86,9 +88,6 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 -->
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Fx](https://img.shields.io/badge/fx-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 <br/>
  
