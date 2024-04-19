@@ -150,7 +150,7 @@
     <div style="margin-bottom: 20px;">
         <h1>GitHub Stats</h1>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=stolniceanudenisa&theme=swift&hide_border=true" alt="GitHub Streak" /><br/><br/>
-       
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stolniceanudenisa&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </div>
 </div>
 
