@@ -10,7 +10,7 @@
 
 <div align="center" style="position: relative;">
 <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Libre&pause=1000&color=030A0D&random=false&width=435&lines=Hi!+I+am+Denisa.;&size=25" alt="Typing SVG" /></a>
+<!--    <img src="https://readme-typing-svg.demolab.com?font=Libre&pause=1000&color=030A0D&random=false&width=435&lines=Hi!+I+am+Denisa.;&size=25" alt="Typing SVG" /></a> -->
 
   <div align="center">
   <img src="https://github.com/stolniceanudenisa/stolniceanudenisa/blob/main/monet poza2.png" />
